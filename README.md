@@ -1,31 +1,49 @@
-[![](https://img.shields.io/static/v1?label=Donate&message=CashApp&color=brightgreen)](https://bit.ly/3fyxxSU)
+# <span style="color: #2563EB;">🔷 </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #2563EB;">| </span> <span style="color: #2563EB;">W</span><span style="color: #ffffff;">arcraft 3 </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>
 
-v1.0.9
-------------------------------
+![WC3LU Logo](https://github.com/DonnieDice/Warcraft3LevelUp/blob/main/images/logo.png?raw=true)
 
-**WC3LU | Warcraft 3 Level Up!**
+## ![](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
 
-------------------------------
+***
 
-***WC3LU | Warcraft 3 Level Up! Will no longer be receiving updates. Functionality has been merged into [BLU | Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers."). If you're a fan of my sound addons, [BLU | Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") is available from all addon provider websites. Thank you!***
+## <span style="color: #2563EB;">🎯 Overview</span>
 
-------------------------------
+**<span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #3598db;">| </span> <span style="color: #2563EB;">W</span><span style="color: #ffffff;">arcraft 3 </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>** <span style="color: #e67e23;">brings the iconic Warcraft 3 level-up chime to</span> <span style="color: #06c;">World of Warcraft</span><span style="color: #e67e23;">, replacing the default sound with a legendary achievement moment across supported WoW versions.</span>
 
-This is an addon that will play the "LEVEL UP!" chime from Warcraft 3 when you level up in WoW.
+![RealmGX Kiwi](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"For the Alliance! Bwwiiiee."</span>
 
-------------------------------
+***
 
-- This addon works in DRAGONFLIGHT!
+## <span style="color: #2563EB;">⚠️ Deprecation Notice</span>
 
-- This addon works in CLASSIC WOW!
+<span style="color: #ff6b6b;">**This addon is no longer receiving updates.**</span> <span style="color: #e67e23;">The functionality has been merged into</span> <span style="color: #4ecdc4;">[BLU | Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up)</span> <span style="color: #e67e23;">and</span> <span style="color: #4ecdc4;">[BLU Classic | Better Level Up!](https://www.curseforge.com/wow/addons/blu-classic)</span><span style="color: #e67e23;">. These master sound addons include this sound plus many others in one convenient package!</span>
 
-- This addon works in CLASSIC WotLK!
+***
 
-------------------------------
-<div align="center">
+## <span style="color: #2563EB;">🎮 Compatibility</span>
 
-**WC3LU Download Links:**
+<span style="color: #2dc26b;"><strong>Retail</strong></span> <span style="color: #3598db;">|</span> <span style="color: #2dc26b;">✅ Supported</span>
 
-[Curse](https://www.curseforge.com/wow/addons/wc3lu-warcraft-3-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") * [GitHub](https://github.com/donniedice/WC3LU "This link takes you to the GitHub.com website, you may download it here.") * [Wago](https://addons.wago.io/addons/wc3lu "This link takes you to the Wago.io website, you may download it here and help support the developers.") * [WoWInterface](https://www.wowinterface.com/downloads/info26266-WC3LU-Warcraft3LevelUp.html "This link takes you to the WoWInterface.com website, you may download it here.")
+<span style="color: #4ecdc4;"><strong>Wrath Classic</strong></span> <span style="color: #3598db;">|</span> <span style="color: #4ecdc4;">✅ Supported</span>
 
-</div>
+<span style="color: #ff6b6b;"><strong>Burning Crusade Classic</strong></span> <span style="color: #3598db;">|</span> <span style="color: #ff6b6b;">✅ Supported</span>
+
+<span style="color: #2563EB;"><strong>Classic Era</strong></span> <span style="color: #3598db;">|</span> <span style="color: #2563EB;">✅ Supported</span>
+
+***
+
+## <span style="color: #2563EB;">📥 Installation</span>
+
+1.  **<span style="color: #2dc26b;">Download</span>** <span style="color: #2563EB;">WC3LU</span> <span style="color: #e67e23;">from your preferred platform.</span>
+2.  **<span style="color: #4ecdc4;">Extract</span>** <span style="color: #e67e23;">the folder to your WoW `Interface/AddOns` directory.</span>
+3.  **<span style="color: #b96ad9;">Restart</span>** <span style="color: #06c;">WoW</span> <span style="color: #e67e23;">and enable the addon.</span>
+
+***
+
+## <span style="color: #2563EB;">💝 Support the Project</span>
+
+<span style="color: #e67e23;">Love WC3LU? Support development through GitHub, Buy Me a Coffee, or CashApp and help power more RGX Mods releases.</span>
+
+***
+
+## <span style="color: #4ecdc4;">🌟 Thank you for choosing </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods! 🌟</span>

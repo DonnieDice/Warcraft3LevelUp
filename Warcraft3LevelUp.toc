@@ -1,11 +1,11 @@
-## Interface: 11500
+## Interface: 100205
 ## Version: 1.0.9
 ## Title:|cfff4d038Warcraft 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/WC3LU
+## X-Website: https://github.com/donniedice/Warcraft3LevelUp
 ## X-Curse-Project-ID: 594585
 ## X-Wago-ID: yQKyWnN7
 ## X-WoWI-ID: 26266
