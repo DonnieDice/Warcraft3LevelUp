@@ -1,8 +1,8 @@
 # <span style="color: #2563EB;">🔷 </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #2563EB;">| </span> <span style="color: #2563EB;">W</span><span style="color: #ffffff;">arcraft 3 </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>
 
-![WC3LU Logo](https://github.com/DonnieDice/Warcraft3LevelUp/blob/main/images/logo.png?raw=true)
+![WC3LU Logo](images/logo.png)
 
-## ![](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
+## ![](images/kiwi.gif) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
 
 ***
 
@@ -10,7 +10,7 @@
 
 **<span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #fff;">| </span> <span style="color: #2563EB;">W</span><span style="color: #ffffff;">arcraft 3 </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>** <span style="color: #e67e23;">brings the iconic Warcraft 3 level-up chime to</span> <span style="color: #06c;">World of Warcraft</span><span style="color: #e67e23;">, replacing the default sound with a legendary achievement moment across supported WoW versions.</span>
 
-![RealmGX Kiwi](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"For the Alliance! Bwwiiiee."</span>
+![RealmGX Kiwi](images/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"For the Alliance! Bwwiiiee."</span>
 
 ***
 
