@@ -1,5 +1,5 @@
 ## Interface: 120005
-## Version: 1.0.10
+## Version: 1.0.11
 ## Title:|cfff4d038Warcraft 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
