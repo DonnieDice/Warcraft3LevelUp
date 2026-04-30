@@ -1,8 +1,9 @@
 ## Interface: 30403
-## Version: 1.0.11
-## Title:|cfff4d038Warcraft 3|r Level Up!
+## Version: 1.0.12
+## Title:  |cfff4d038Warcraft 3|r Level Up|cfff4d038!|r
+## IconTexture: Interface\AddOns\Warcraft3LevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
+## Notes:  Play a Warcraft 3-inspired level-up sound!  |n|r  |cfff4d038/wc3lu -|r Open help  |n|r   |cfff4d038By DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/Warcraft3LevelUp
