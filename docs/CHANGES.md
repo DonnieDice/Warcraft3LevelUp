@@ -1,11 +1,10 @@
-# v1.0.12 - 2026-04-29
+# v2.0.0 - 2026-04-30
 
 ## Changes
-- Normalized in-game title, notes, and icon metadata for consistent AddOns list presentation across supported WoW clients.
-- Updated README branding, logo paths, and highlight colors to match the shared single-sound level-up addon template.
-- Synced addon version metadata for this release.
 
-# v1.0.11 - 2026-04-23
-
-## Changes
-- Corrected the Retail TOC bump to interface 120005 after the prior malformed 1200005 release metadata.
+- **Full architecture migration**: Restructured from legacy single-file to modern RGX-Framework architecture with `data/core.lua`, `data/locales.lua`, and `sounds/` directory.
+- **Migrated to RGX-Framework**: Added `RequiredDeps: RGX-Framework` to TOC. Core logic now uses `RGX:GetSound()`, `RGX:RegisterEvent()`, and `RGX:RegisterSlashCommand()`.
+- **Sound variants**: Added high/medium/low quality sound variants.
+- **Localization**: Added multi-language support (enUS, deDE, frFR, esES, ruRU).
+- **Settings**: Added persistent SavedVariables with slash commands for enable/disable, sound variant, and volume channel.
+- **RGXSound handle**: Sound playback, variant management, mute/unmute, settings, and welcome message are now handled by the RGXSound module in RGX-Framework.
